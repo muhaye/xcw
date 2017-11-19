@@ -13,7 +13,10 @@ $ xcwsbuild
 
 #### 1. Download the script:
 ```
-wget https://github.com/muhaye/xcw/blob/master/xcw.py
+cd ~/Downloads
+```
+```
+curl -O https://raw.githubusercontent.com/muhaye/xcw/master/xcw.py
 ```
 
 ## Configuration
